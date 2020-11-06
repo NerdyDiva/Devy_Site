@@ -1,2 +1,2 @@
 # Devy_Site
-A site about Devy
+A site that uses HTML, CSS and Javascript to showcase my dog Devy. 
